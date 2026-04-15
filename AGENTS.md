@@ -16,10 +16,13 @@ This repo participates in the **ORGAN-VI (Community)** swarm.
 - **Consume** `package` from `unspecified`
 - **Consume** `data` from `unspecified`
 - **Consume** `data` from `unspecified`
+- **Consume** `community-growth` from `{'organ': 'ORGAN-III'}`
+- **Consume** `creative-community` from `{'organ': 'ORGAN-II'}`
+- **Consume** `theoretical-community` from `{'organ': 'ORGAN-I'}`
 
 ### Governance Constraints
 - Adhere to unidirectional flow: I→II→III
 - Never commit secrets or credentials
 
-*Last synced: 2026-03-25T22:27:17Z*
+*Last synced: 2026-04-14T21:32:09Z*
 <!-- ORGANVM:AUTO:END -->
